@@ -1,0 +1,25 @@
+.clause__box{
+    display: flex;
+    align-items: flex-end;
+    gap: 40px;
+}
+
+@media screen and (max-width: 1279px) {
+    .clause__box{
+        gap: 32px;
+    }    
+}
+
+@media screen and (max-width: 1023px) {
+    .clause__box{
+        gap: 28px;
+    }    
+}
+
+@media screen and (max-width: 767px) {
+    .clause__box{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 32px;
+    }    
+}

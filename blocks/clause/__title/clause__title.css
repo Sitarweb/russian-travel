@@ -1,0 +1,33 @@
+.clause__title{
+    margin: 0;
+    max-width: 460px;
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+
+
+@media screen and (max-width: 1023px) {
+    .clause__title{
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .clause__title{
+        margin: auto;
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .clause__title{
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

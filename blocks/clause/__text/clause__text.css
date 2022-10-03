@@ -1,0 +1,22 @@
+.clause__text{
+    max-width: 484px;
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+@media screen and (max-width: 767px) {
+    .clause__text{
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 484px) {
+    .clause__text{
+        margin: auto;
+        max-width: 288px;
+    }
+}
+
+

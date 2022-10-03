@@ -1,0 +1,16 @@
+.clause{
+    max-width: 984px;
+    padding: 0;
+    margin: auto;
+}
+@media screen and (max-width: 1023px) {
+    .clause{
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .clause{
+        padding: 0 16px;
+    }
+}
