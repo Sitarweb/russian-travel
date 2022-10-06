@@ -1,4 +1,4 @@
-.language-options__lang-link{
+.header__lang-link{
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -9,7 +9,7 @@
     }
 
 @media screen and (max-width: 767px) {
-    .language-options__lang-link{
+    .header__lang-link{
         font-size: 18px;
         line-height: 20px;
     }
