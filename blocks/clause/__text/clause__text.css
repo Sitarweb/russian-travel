@@ -8,13 +8,12 @@
 
 @media screen and (max-width: 767px) {
     .clause__text{
-        margin: auto;
+        margin: 0 auto;
     }
 }
 
 @media screen and (max-width: 484px) {
     .clause__text{
-        margin: auto;
         max-width: 288px;
     }
 }
