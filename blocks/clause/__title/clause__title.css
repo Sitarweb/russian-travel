@@ -1,6 +1,6 @@
 .clause__title{
     margin: 0;
-    max-width: 460px;
+    width: 47%;
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 900;
@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 767px) {
     .clause__title{
-        margin: 0 auto;
+        margin: 0;
         font-size: 32px;
         line-height: 35px;
     }

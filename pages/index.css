@@ -1,7 +1,7 @@
 /* normalize */
 @import url(../vendor/normalize.css);
 /* fonts */
-@import url(../vendor/fonts/inter.css);
+@import url(../vendor/fonts/fonts.css);
 /* page */
 @import url(../blocks/page/page.css);
 /* header */
@@ -30,11 +30,10 @@
 @import url(../blocks/places/__clauses/places__clauses.css);
 /* clause */
 @import url(../blocks/clause/clause.css);
-@import url(../blocks/clause/__box/clause__box.css);
+@import url(../blocks/clause/__content/clause__content.css);
 @import url(../blocks/clause/__title/clause__title.css);
 @import url(../blocks/clause/__label/clause__label.css);
 @import url(../blocks/clause/__link/clause__link.css);
-@import url(../blocks/clause/__content/clause__content.css);
 @import url(../blocks/clause/__image/clause__image.css);
 @import url(../blocks/clause/__text/clause__text.css);
 @import url(../blocks/clause/__paragraph/clause__paragraph.css);

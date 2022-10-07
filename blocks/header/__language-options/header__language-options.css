@@ -1,5 +1,4 @@
 .header__language-options{
-    max-width: 77px;
     display: flex;
     gap: 18px;
     margin: 46px 0 6px;
@@ -10,7 +9,6 @@
 
 @media screen and (max-width: 767px) {
     .header__language-options{
-        max-width: 61px;
         margin: 30px 0 8px;
     }
 }

@@ -4,6 +4,10 @@
     gap: 40px;
 }
 
+.clause__content:first-child{
+    align-items: flex-end;
+}
+
 @media screen and (max-width: 1279px) {
     .clause__content{
         gap: 32px;
@@ -20,5 +24,8 @@
     .clause__content{
         flex-direction: column;
         gap: 32px;
-    }    
+    } 
+    .clause__content:first-child{
+        align-items: flex-start;
+    }   
 }
