@@ -4,12 +4,6 @@
     margin-top: 48px;
 }
 
-@media screen and (max-width: 1023px) {
-    .clause__image{
-        margin-bottom: 101px;
-    }
-}
-
 @media screen and (max-width: 767px) {
     .clause__image{
         margin: 32px auto 0;

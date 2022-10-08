@@ -11,4 +11,9 @@
     color: #AAAAAA;
 }
 
-
+@media screen and (max-width: 767px){
+    .clause__label{
+        max-width: 288px;
+        padding: 0 16px;
+    }
+}

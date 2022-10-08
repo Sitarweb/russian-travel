@@ -19,7 +19,8 @@
 
 @media screen and (max-width: 767px) {
     .clause__title{
-        margin: 0;
+        max-width: 288px;
+        padding: 0 16px;
         font-size: 32px;
         line-height: 35px;
     }
