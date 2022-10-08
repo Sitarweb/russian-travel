@@ -27,5 +27,6 @@
     } 
     .clause__content:first-child{
         align-items: flex-start;
+        padding: 0 16px;
     }   
 }
